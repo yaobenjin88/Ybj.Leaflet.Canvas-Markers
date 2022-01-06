@@ -1,0 +1,19 @@
+{
+  "name": "ybj.leaflet.canvas-markers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "leaflet.canvas-markers.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yaobenjin88/Ybj.Leaflet.Canvas-Markers.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yaobenjin88/Ybj.Leaflet.Canvas-Markers/issues"
+  },
+  "homepage": "https://github.com/yaobenjin88/Ybj.Leaflet.Canvas-Markers#readme"
+}
